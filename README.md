@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I’m a passionate software developer focused on b
 
 ## 📃 Certifications
 
-- 🏅 **Edge - Python Full Stack Development**  
+- 🏅 **Edge - Python Full Stack Web Development**  
   *Fortune Cloud Technology*
 
 ---
